@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+
       // Tempo total inicial em milissegundos
       const initialTime = (5 * 24 * 60 * 60 * 1000) + (4 * 60 * 60 * 1000) + (20 * 60 * 1000);
       let totalTime;
@@ -95,3 +96,5 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         };
     }
+
+
